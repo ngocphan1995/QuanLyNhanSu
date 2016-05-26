@@ -1,0 +1,11 @@
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\bin\Debug\QLNS win.exe
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\bin\Debug\QLNS win.pdb
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS_win.DuAn.resources
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS_win.Login.resources
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS_win.Properties.Resources.resources
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS win.csproj.GenerateResource.Cache
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS win.exe
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS win.pdb
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS win.csprojResolveAssemblyReference.cache
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS_win.BANGLUONG.resources
+C:\Users\login\documents\visual studio 2013\Projects\QLNS win\QLNS win\obj\Debug\QLNS_win.Main.resources
